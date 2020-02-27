@@ -1,4 +1,4 @@
-# Project 3: Determining Posts' Subreddits
+# Determining Legal Advice Posts' Britishness
 
 ### Ethan Henley
 
