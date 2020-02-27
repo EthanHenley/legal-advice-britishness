@@ -1,5 +1,5 @@
 # Determining Legal Advice Posts' Britishness
-Ethan Henley\
+by Ethan Henley\
 This project was completed as a part of General Assembly's Data Science Intensive.
 
 ## Contents
